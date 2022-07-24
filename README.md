@@ -16,4 +16,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
  🚧 Projeo em Construção... 🚧
 </h4>
 
-<p>Projeto criado durante o curso <a href="https://programadorbr.com/">Curso Full Stack - Programador BR</a></p>
+<p>Projeto criado durante o <a href="https://programadorbr.com/">Curso Full Stack - Programador BR</a></p>
