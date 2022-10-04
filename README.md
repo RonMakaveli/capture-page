@@ -13,7 +13,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [MailChimp](https://login.mailchimp.com/)
 
 <h4 align="center">
- 🚧 Projeo em Construção... 🚧
+ :heavy_check_mark:
 </h4>
 
 <p>Projeto criado durante o <a href="https://programadorbr.com/">Curso Full Stack - Programador BR</a></p>
