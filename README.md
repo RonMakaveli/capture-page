@@ -1,5 +1,5 @@
 <h1> capture-page </h1>
-<a href="https://blog.klickpages.com.br/pagina-de-captura/">Página de captura</a> sobre Yeezus
+<a href="https://blog.klickpages.com.br/pagina-de-captura/">Página de captura</a> sobre <a href="https://en.wikipedia.org/wiki/Yeezus">Yeezus</a>
 
 uma simples página sobre o evento do album Yeezus.
 
